@@ -250,6 +250,7 @@ namespace DrinkOrderProgram
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.listBox1);
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "음료수 주문 프로그램";
             this.ResumeLayout(false);
